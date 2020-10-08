@@ -1,15 +1,13 @@
 
 ### Hi there, I'm Pheakdey Luk [website] 👋  
 
----
-### My Resume
+<summary>:zap: My Resume </summary>
 [<img align="left" alt="My Resume" width="150px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][playstore] 
 
 <br />
 <br />
 <br />
 
----
 ## I'm a Full Stack Developer!!
 - 🔭  I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
 - 🌱  I’m fast learner 🤣
