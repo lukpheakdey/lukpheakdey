@@ -35,8 +35,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="REST API" width="26px" src="https://user-images.githubusercontent.com/10406702/95417311-c125da00-0902-11eb-9354-5e74b8f8c069.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="phpstorm" width="26px" src="https://user-images.githubusercontent.com/10406702/95417434-0d711a00-0903-11eb-9442-7eb0d51f2db2.jpg" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="intellj" width="26px" src="https://user-images.githubusercontent.com/10406702/95417483-2b3e7f00-0903-11eb-9d80-d1b09e6c5939.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 <br />
@@ -46,6 +46,7 @@
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Pheakdey Luk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lukpheakdey&show_icons=true&hide_border=true" />
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukpheakdey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
