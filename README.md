@@ -1,14 +1,12 @@
 
 ### Hi there, I'm Pheakdey Luk [website] 👋  
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[<img align="left" alt="php" width="150px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][playstore]
 
----
+<br />
+<br />
+<br />
 
-[<img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
-
----
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack Developer!!
 - 🔭  I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
 - 🌱  I’m fast learner 🤣
 - 👯  I like coding.
