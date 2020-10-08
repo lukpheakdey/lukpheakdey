@@ -2,7 +2,7 @@
 ### Hi there, I'm Pheakdey Luk [website] 👋
 
 [![Website](https://img.shields.io/website?label=lukpheakdey.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://lukpheakdey.com/)
-
+[<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/10406702/95418317-3e524e80-0905-11eb-87f7-ccbc58923325.jpeg" />][instagram]
 
 ## I'm a Full Stack Developer!!
 
