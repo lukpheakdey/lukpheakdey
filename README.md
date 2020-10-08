@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Pheakdey Luk [website] 👋  
+[<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][instagram]
 [![Website](https://img.shields.io/website?label=lukpheakdey.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://lukpheakdey.com/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## I'm Full Stack Developer!!
 - 🔭  I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
