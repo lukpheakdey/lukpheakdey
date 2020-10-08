@@ -6,7 +6,6 @@
 <br />
 
 ---
-
 ## I'm Full Stack Developer!!
 - 🔭  I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
 - 🌱  I’m fast learner 🤣
