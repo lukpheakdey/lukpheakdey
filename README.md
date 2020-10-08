@@ -1,8 +1,9 @@
 
 ### Hi there, I'm Pheakdey Luk [website] 👋
-
 [![Website](https://img.shields.io/website?label=lukpheakdey.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://lukpheakdey.com/)
-[<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/10406702/95418317-3e524e80-0905-11eb-87f7-ccbc58923325.jpeg" />][instagram]
+
+## My Resume
+[<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][playstore]
 
 ## I'm a Full Stack Developer!!
 
@@ -53,3 +54,4 @@
 [website]: http://lukpheakdey.com/
 [instagram]: https://www.instagram.com/luk_pheakdey/
 [linkedin]: https://www.linkedin.com/in/pheakdey-luk/
+[playstore]: https://play.google.com/store/apps/details?id=com.lukpheakdey.curriculumvitaeapp
