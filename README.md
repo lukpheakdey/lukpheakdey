@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=lukpheakdey.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://lukpheakdey.com/)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack Developer!!
 
 - 🔭 I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
 - 🌱 I’m fast learner 🤣
@@ -42,6 +42,8 @@
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Pheakdey Luk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lukpheakdey&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukpheakdey&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
