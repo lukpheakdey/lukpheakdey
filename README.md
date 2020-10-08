@@ -2,10 +2,9 @@
 ### Hi there, I'm Pheakdey Luk [website] 👋  
 [<img align="left" alt="Instagram" width="180px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][instagram]
 
-<br />
-<br />
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm Full Stack Developer!!
+## I'm a Husband, Father, Developer, and Teacher!!
 - 🔭  I Professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector
 - 🌱  I’m fast learner 🤣
 - 👯  I like coding.
