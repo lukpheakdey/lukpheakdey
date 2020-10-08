@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Pheakdey Luk [website] 👋  
 
-<summary>:zap: My Resume </summary>
-[<img align="left" alt="My Resume" width="150px" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />][playstore] 
+<summary>:zap: My Resume</summary>
+<img align="left"  width="120px" alt="Pheakdey Luk's GitHub Stats" src="https://user-images.githubusercontent.com/10406702/95418531-c173a480-0905-11eb-873b-604e5b82734e.png" />
 
 <br />
 <br />
