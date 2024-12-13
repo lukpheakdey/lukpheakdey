@@ -8,7 +8,7 @@
 <br />
 
 ## I'm a Full Stack Developer!!
-- 🔭. &nbsp; I am a professional Java and PHP developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector. 
+- 🔭. &nbsp; I am a professional Java and Angular developer with both front and back end of complex, object-oriented, web-based applications for the health care industry and business sector. 
 - 🌱 &nbsp; I’m fast learner. 🤣
 - 👯 &nbsp; I like coding.
 - 🥅 &nbsp; I am passionate person.
