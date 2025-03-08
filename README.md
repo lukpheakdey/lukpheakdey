@@ -51,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukpheakdey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://lukpheakdey.com/
+[website]: http://lukpheakdey.blogspot.com/
 [instagram]: https://www.instagram.com/luk_pheakdey/
 [linkedin]: https://www.linkedin.com/in/pheakdey-luk/
 [playstore]: https://play.google.com/store/apps/details?id=com.lukpheakdey.curriculumvitaeapp
